@@ -52,7 +52,7 @@ Users should be able to:
                     alt="Desktop solution" width="100%" title="Desktop solution"/>
             </td>
             <td>
-                <img src="./images/tablet-solution.png"
+                <img src="./images/tablet-solution.webp"
                     alt="Tablet solution" width="100%" title="Tablet solution"/>
             </td>
             <td>
