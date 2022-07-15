@@ -48,7 +48,7 @@ Users should be able to:
 <table>
         <tr>
             <td>
-                <img src="./images/desktop-solution.png"
+                <img src="./images/desktop-solution.webp"
                     alt="Desktop solution" width="100%" title="Desktop solution"/>
             </td>
             <td>
@@ -56,7 +56,7 @@ Users should be able to:
                     alt="Tablet solution" width="100%" title="Tablet solution"/>
             </td>
             <td>
-                <img src="./images/mobile-solution.png"
+                <img src="./images/mobile-solution.webp"
                     alt="Mobile solution" title="Mobile solution" width="100%" />
             </td>
         </tr>
